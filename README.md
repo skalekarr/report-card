@@ -1,4 +1,4 @@
-In order to successfully run this seed, you will need to have node installed on your machine.
+In order to successfully run this project, you will need to have node installed on your machine.
 
 * Install project dependencies: `npm i`
 * To start the application: `npm start`
